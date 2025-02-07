@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Ogbujimma</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Blazor**
-
 - 💬 Ask me about **Laravel, Node.js**
 
 <h3 align="left">Connect with me:</h3>
