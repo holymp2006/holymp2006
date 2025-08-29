@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Ogbujimma</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
-- 💬 Ask me about **Laravel, Node.js**
+💬 Ask me about anything related to Software Engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
